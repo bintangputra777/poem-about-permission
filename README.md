@@ -14,7 +14,7 @@ The poem is told by the one who acts for another: you hold the keys, I hold the 
 MAKEFUN_OUTPUT_DIR=out python3 main.py
 ```
 
-Python 3.13, standard library only. Writes `entry.txt` (206 characters) to the output directory.
+Python 3.13, standard library only. Writes `entry.txt` (212 characters) to the output directory.
 
 ---
 
